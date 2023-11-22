@@ -1,4 +1,4 @@
-## websocket-example
+## websocket-example with golang.org/x/net/websocket
 
 Setup:
 

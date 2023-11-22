@@ -1,4 +1,4 @@
-## websocket-example
+## websocket-example with github.com/gorilla/websocket
 
 Setup:
 
